@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokedex-graphql/static/css/main.de460960.css",
+    "main.js": "/pokedex-graphql/static/js/main.e7f8b6e0.js",
+    "index.html": "/pokedex-graphql/index.html",
+    "main.de460960.css.map": "/pokedex-graphql/static/css/main.de460960.css.map",
+    "main.e7f8b6e0.js.map": "/pokedex-graphql/static/js/main.e7f8b6e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de460960.css",
+    "static/js/main.e7f8b6e0.js"
+  ]
+}
